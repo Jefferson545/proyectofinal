@@ -34,8 +34,11 @@ public class activity_inicioseci extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 verificarCredenciales();
+
+
             }
         });
+
 
     }
     public void verificarCredenciales(){
